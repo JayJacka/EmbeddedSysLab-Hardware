@@ -1,0 +1,15 @@
+main.c:68:6:HAL_UART_RxCpltCallback	2
+main.c:101:6:delay	2
+main.c:109:6:gpio_set_input	1
+main.c:118:6:gpio_set_output	1
+main.c:132:9:ds18b20_init	2
+main.c:154:6:write	3
+main.c:187:9:read	3
+main.c:217:5:main	2
+main.c:296:6:SystemClock_Config	3
+main.c:343:13:MX_ADC1_Init	3
+main.c:395:13:MX_TIM1_Init	4
+main.c:441:13:MX_USART1_UART_Init	2
+main.c:474:13:MX_USART2_UART_Init	2
+main.c:507:13:MX_GPIO_Init	1
+main.c:553:6:Error_Handler	1
